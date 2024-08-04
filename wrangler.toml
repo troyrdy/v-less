@@ -2,10 +2,6 @@ name = "id1"
 main = "worker.js"
 compatibility_date = "2023-08-23"
 routes = [
-    	{ pattern = "id1.noir7r.xyz", custom_domain = true },
-    	{ pattern = "ava.game.naver.com.id1.noir7r.xyz", custom_domain = true },
-    	{ pattern = "quiz.int.vidio.com.id1.noir7r.xyz", custom_domain = true },
-    	{ pattern = "support.zoom.us.id1.noir7r.xyz", custom_domain = true },
-	{ pattern = "cache.netflix.com.id1.noir7r.xyz", custom_domain = true },
-    	{ pattern = "blog.webex.com.id1.noir7r.xyz", custom_domain = true }
+    	{ pattern = "zen.troy.my.id", custom_domain = true }, 
+        { pattern = "support.zoom.us.zen.troy.my.id", custom_domain = true },
         ]
