@@ -2,10 +2,10 @@
 // @ts-ignore
 import { connect } from 'cloudflare:sockets';
 
-let userID = '66384d0a-d0ef-4617-8658-5cc1b0764ffe';
+let userID = '15ca7fc4-6f07-4158-897d-5dee3d569651';
 
-let proxyIP = "35.219.50.99";
-let hostnames = ['id1.noir7r.xyz'];
+let proxyIP = "23.248.170.129";
+let hostnames = ['zen.troy.my.id'];
 
 if (!isValidUUID(userID)) {
 	throw new Error('uuid is not valid');
